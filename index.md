@@ -1,6 +1,3 @@
-## EOS导航 (EOS-Navigator)
-
-
 ### EOS浏览器 (EOS Browsers)
 
 [eosflare.io](https://eosflare.io/)
