@@ -12,6 +12,8 @@ title:  "EOS导航 (EOS Navigator)"
 
 [scaneos.io](https://scaneos.io/)
 
+[EOS Meta](https://eosmeta.io/)
+
 [EOS Tracker](https://eostracker.io/)
 
 [eosmonitor](https://eosmonitor.io/)
