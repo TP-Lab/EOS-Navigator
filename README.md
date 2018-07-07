@@ -6,3 +6,4 @@
 <br>
 
 大家有需要补充的EOS工具或网站，请提交pr！ 感谢
+(know more useful tools or website about EOS?  submit a pr!)
