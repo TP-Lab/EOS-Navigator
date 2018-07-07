@@ -19,6 +19,7 @@ title:  "EOS导航 (EOS Navigator)"
 [EOS network](http://eosnetworkmonitor.io/)
 
 
+
 ## EOS钱包 (EOS Wallet)
 
 [TokenPocket](https://www.mytokenpocket.vip/)
@@ -29,10 +30,14 @@ title:  "EOS导航 (EOS Navigator)"
 
 [Halo Wallet](https://halowallet.io/#/)
 
+[MEET.ONE](https://meet.one/)
+
+[Pocket EOS](https://pocketeos.com/#/)
 
 
 
-## 内存价格 (RAM Price)
+
+## EOS内存价格 (EOS RAM Price)
 
 [TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)
 
@@ -40,5 +45,10 @@ title:  "EOS导航 (EOS Navigator)"
 
 
 
+## EOS账号创建 (EOS Account)
+
+[TokenPocket](https://account.mytokenpocket.vip/#/)
+
+[EOS Account Creator](https://eos-account-creator.com/)
 
 
