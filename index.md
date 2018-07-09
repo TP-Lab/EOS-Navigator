@@ -2,6 +2,10 @@
 title:  "EOS导航 (EOS Navigator)"
 ---
 
+
+欢迎提交更多EOS相关链接：https://github.com/TP-Lab/EOS-Navigator
+
+
 ## EOS浏览器 (EOS Browsers)
 
 [eosflare.io](https://eosflare.io/)
@@ -45,6 +49,8 @@ title:  "EOS导航 (EOS Navigator)"
 
 [FeeXplorer](https://eos.feexplorer.io/)
 
+[South ex](http://southex.com/)
+
 
 
 ## EOS账号创建 (EOS Account)
@@ -52,9 +58,6 @@ title:  "EOS导航 (EOS Navigator)"
 [TokenPocket](https://account.mytokenpocket.vip/#/)
 
 [EOS Account Creator](https://eos-account-creator.com/)
-
-
-## EOS安全 (EOS Security)
 
 
 
