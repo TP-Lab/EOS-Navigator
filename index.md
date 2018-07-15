@@ -55,9 +55,17 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS账号创建 (EOS Account)
 
-[TokenPocket](https://account.mytokenpocket.vip/#/)
+[TokenPocket](https://account.mytokenpocket.vip/#/) （支付宝）
 
 [EOS Account Creator](https://eos-account-creator.com/)
 
+[signupeoseos](http://signupeoseos.com/) （EOS智能合约）
 
+
+
+
+
+## 其他（Others）
+
+[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) [github说明文档](https://github.com/eosstore/eosstore-backup)
 
