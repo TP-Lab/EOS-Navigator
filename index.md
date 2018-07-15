@@ -67,5 +67,5 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## 其他（Others）
 
-[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) [github说明文档](https://github.com/eosstore/eosstore-backup)
+[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))
 
