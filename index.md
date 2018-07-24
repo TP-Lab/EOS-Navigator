@@ -63,22 +63,22 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS空投信息平台 (EOS Drop)
 
-eosdrops: [https://eosdrops.io/](url)
+eosdrops: [https://eosdrops.io/](https://eosdrops.io/)
 
-airdropsforeos: [https://airdropsforeos.com/](url)
+airdropsforeos: [https://airdropsforeos.com/](https://airdropsforeos.com/)
 
 
 ## EOS交易所 (EOS Exchange)
 
-Bithumb: [https://www.bithumb.com/](url)
+Bithumb: [https://www.bithumb.com/](https://www.bithumb.com/)
 
-Huobi: [https://www.huobi.pro/ko-kr/eos_usdt/exchange/](url)
+Huobi: [https://www.huobi.pro/ko-kr/eos_usdt/exchange/](https://www.huobi.pro/ko-kr/eos_usdt/exchange/)
 
-Bitfinex: (https://www.bitfinex.com/t/EOS:USD](url)
+Bitfinex: (https://www.bitfinex.com/t/EOS:USD](https://www.bitfinex.com/t/EOS:USD)
 
-Binance: [https://www.binance.com/trade.html?symbol=EOS_BTC](url)
+Binance: [https://www.binance.com/trade.html?symbol=EOS_BTC](https://www.binance.com/trade.html?symbol=EOS_BTC)
 
-HitBTC: [https://hitbtc.com/exchange/EOS-to-USDT](url)
+HitBTC: [https://hitbtc.com/exchange/EOS-to-USDT](https://hitbtc.com/exchange/EOS-to-USDT)
 
 
 ## EOS核心文档 (Eos core document)
@@ -93,19 +93,19 @@ automated build script: [https://github.com/EOSIO/eos#automated-build-script](ur
 
 ## EOS媒体 (EOS Media)
 
-币乎: [https://bihu.com/](url)
+币乎: [https://bihu.com/](https://bihu.com/)
 
-helloeos: [https://www.helloeos.one/](url)
+helloeos: [https://www.helloeos.one/](https://www.helloeos.one/)
 
-火星财经: [http://www.huoxing24.com/](url)
+火星财经: [http://www.huoxing24.com/](http://www.huoxing24.com/)
 
-炼金术: [http://www.lianjinshu.com/](url)
+炼金术: [http://www.lianjinshu.com/](http://www.lianjinshu.com/)
 
-每日区块链: [http://www.dayqkl.com/](url)
+每日区块链: [http://www.dayqkl.com/](http://www.dayqkl.com/)
 
-币世界: [http://www.bishijie.com/kuaixun/](url)
+币世界: [http://www.bishijie.com/kuaixun/](http://www.bishijie.com/kuaixun/)
 
-币圈网: [http://www.biiquan.com/](url)
+币圈网: [http://www.biiquan.com/](http://www.biiquan.com/)
 
 
 
@@ -115,5 +115,5 @@ helloeos: [https://www.helloeos.one/](url)
 
 [EOS资源免费抵押](https://res.mytokenpocket.vip/#/)
 
-EOS公钥私钥生成器: [https://eos-key.mytokenpocket.vip/]
+EOS公钥私钥生成器: [https://eos-key.mytokenpocket.vip/](https://eos-key.mytokenpocket.vip/)
 
