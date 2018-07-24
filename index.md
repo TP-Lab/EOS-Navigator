@@ -42,7 +42,6 @@ title:  "EOS导航 (EOS Navigator)"
 
 
 
-
 ## EOS内存价格 (EOS RAM Price)
 
 [TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)
@@ -62,6 +61,51 @@ title:  "EOS导航 (EOS Navigator)"
 [signupeoseos](http://signupeoseos.com/) （EOS智能合约）
 
 
+## EOS空投信息平台 (EOS Drop)
+
+eosdrops: [https://eosdrops.io/](url)
+
+airdropsforeos: [https://airdropsforeos.com/](url)
+
+
+## EOS交易所 (EOS Exchange)
+
+Bithumb: [https://www.bithumb.com/](url)
+
+Huobi: [https://www.huobi.pro/ko-kr/eos_usdt/exchange/](url)
+
+Bitfinex: (https://www.bitfinex.com/t/EOS:USD](url)
+
+Binance: [https://www.binance.com/trade.html?symbol=EOS_BTC](url)
+
+HitBTC: [https://hitbtc.com/exchange/EOS-to-USDT](url)
+
+
+## EOS核心文档 (Eos core document)
+
+WhitePaper: [https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md](url) （技术白皮书）
+
+wiki: [https://github.com/EOSIO/eos/wiki](url) (wiki)
+
+automated build script: [https://github.com/EOSIO/eos#automated-build-script](url) (技术文档)
+
+
+
+## EOS媒体 (EOS Media)
+
+币乎: [https://bihu.com/](url)
+
+helloeos: [https://www.helloeos.one/](url)
+
+火星财经: [http://www.huoxing24.com/](url)
+
+炼金术: [http://www.lianjinshu.com/](url)
+
+每日区块链: [http://www.dayqkl.com/](url)
+
+币世界: [http://www.bishijie.com/kuaixun/](url)
+
+币圈网: [http://www.biiquan.com/](url)
 
 
 
@@ -70,4 +114,6 @@ title:  "EOS导航 (EOS Navigator)"
 [主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))
 
 [EOS资源免费抵押](https://res.mytokenpocket.vip/#/)
+
+EOS公钥私钥生成器: [https://eos-key.mytokenpocket.vip/]
 
