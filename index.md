@@ -8,112 +8,63 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS浏览器 (EOS Browsers)
 
-[eosflare.io](https://eosflare.io/)
+[eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)
 
-[EOSeco Explorer](https://eoseco.com/)
-
-[EOSPark](https://eospark.com/)
-
-[scaneos.io](https://scaneos.io/)
-
-[EOS Meta](https://eosmeta.io/)
-
-[EOS Tracker](https://eostracker.io/)
-
-[eosmonitor](https://eosmonitor.io/)
-
-[EOS network](http://eosnetworkmonitor.io/)
-
+[EOS Meta](https://eosmeta.io/)&emsp;&emsp;&emsp;[EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)
 
 
 ## EOS钱包 (EOS Wallet)
 
-[TokenPocket](https://www.mytokenpocket.vip/)
+[TokenPocket](https://www.mytokenpocket.vip/)&emsp;&emsp;&emsp;[Scatter](https://get-scatter.com/)&emsp;&emsp;&emsp;[imToken 2.0](https://token.im/)&emsp;&emsp;&emsp;[Halo Wallet](https://halowallet.io/#/)
 
-[Scatter](https://get-scatter.com/)
-
-[imToken 2.0](https://token.im/)
-
-[Halo Wallet](https://halowallet.io/#/)
-
-[MEET.ONE](https://meet.one/)
-
-[Pocket EOS](https://pocketeos.com/#/)
-
+[MEET.ONE](https://meet.one/)&emsp;&emsp;&emsp;[Pocket EOS](https://pocketeos.com/#/)
 
 
 ## EOS内存价格 (EOS RAM Price)
 
-[TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)
-
-[FeeXplorer](https://eos.feexplorer.io/)
-
-[South ex](http://southex.com/)
-
+[TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)&emsp;&emsp;&emsp;[FeeXplorer](https://eos.feexplorer.io/)&emsp;&emsp;&emsp;[South ex](http://southex.com/)
 
 
 ## EOS账号创建 (EOS Account)
 
-[TokenPocket](https://account.mytokenpocket.vip/#/) （支付宝）
-
-[EOS Account Creator](https://eos-account-creator.com/)
-
-[signupeoseos](http://signupeoseos.com/) （EOS智能合约）
+[TokenPocket](https://account.mytokenpocket.vip/#/) （支付宝）&emsp;&emsp;&emsp;[EOS Account Creator](https://eos-account-creator.com/)&emsp;&emsp;&emsp;[signupeoseos](http://signupeoseos.com/) （EOS智能合约）
 
 
 ## EOS空投信息平台 (EOS Drop)
 
-eosdrops: [https://eosdrops.io/](https://eosdrops.io/)
-
-airdropsforeos: [https://airdropsforeos.com/](https://airdropsforeos.com/)
+[eosdrops](https://eosdrops.io/)&emsp;&emsp;&emsp;[airdropsforeos](https://airdropsforeos.com/)
 
 
 ## EOS交易所 (EOS Exchange)
 
-Bithumb: [https://www.bithumb.com/](https://www.bithumb.com/)
+[Bithumb](https://www.bithumb.com/)&emsp;&emsp;&emsp;[Huobi](https://www.huobi.pro/ko-kr/eos_usdt/exchange/)&emsp;&emsp;&emsp;[Bitfinex](https://www.bitfinex.com/t/EOS:USD)&emsp;&emsp;&emsp;[Binance](https://www.binance.com/trade.html?symbol=EOS_BTC)
 
-Huobi: [https://www.huobi.pro/ko-kr/eos_usdt/exchange/](https://www.huobi.pro/ko-kr/eos_usdt/exchange/)
-
-Bitfinex: (https://www.bitfinex.com/t/EOS:USD](https://www.bitfinex.com/t/EOS:USD)
-
-Binance: [https://www.binance.com/trade.html?symbol=EOS_BTC](https://www.binance.com/trade.html?symbol=EOS_BTC)
-
-HitBTC: [https://hitbtc.com/exchange/EOS-to-USDT](https://hitbtc.com/exchange/EOS-to-USDT)
+[HitBTC](https://hitbtc.com/exchange/EOS-to-USDT)
 
 
 ## EOS核心文档 (Eos core document)
 
-WhitePaper: [https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md](url) （技术白皮书）
-
-wiki: [https://github.com/EOSIO/eos/wiki](url) (wiki)
-
-automated build script: [https://github.com/EOSIO/eos#automated-build-script](url) (技术文档)
-
+[WhitePaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) （技术白皮书）&emsp;&emsp;&emsp;[wiki](https://github.com/EOSIO/eos/wiki) (wiki)&emsp;&emsp;&emsp;[automated build script](https://github.com/EOSIO/eos#automated-build-script) (技术文档)
 
 
 ## EOS媒体 (EOS Media)
 
-币乎: [https://bihu.com/](https://bihu.com/)
+[币乎](https://bihu.com/)&emsp;&emsp;&emsp;[火星财经](http://www.huoxing24.com/)&emsp;&emsp;&emsp;[链金术](http://www.lianjinshu.com/)&emsp;&emsp;&emsp;[每日区块链](http://www.dayqkl.com/)
 
-helloeos: [https://www.helloeos.one/](https://www.helloeos.one/)
+[币世界](http://www.bishijie.com/kuaixun/)&emsp;&emsp;&emsp;[币圈网](http://www.biiquan.com/)&emsp;&emsp;&emsp;[白话区块链](http://www.hellobtc.com/)&emsp;&emsp;&emsp;[比特快讯](https://www.bitnews.vip/)
 
-火星财经: [http://www.huoxing24.com/](http://www.huoxing24.com/)
+[Huobi.News](https://www.huobi.cn/)&emsp;&emsp;&emsp;[万链之家](https://www.wanlianzhijia.com/)&emsp;&emsp;&emsp;[火球财经](https://www.ihuoqiu.com/)
 
-炼金术: [http://www.lianjinshu.com/](http://www.lianjinshu.com/)
+## EOS超级节点 (EOS Super node)  （前十）
 
-每日区块链: [http://www.dayqkl.com/](http://www.dayqkl.com/)
+[BITFINEXEOS1](	https://www.bitfinex.com)&emsp;&emsp;&emsp;[EOS Canada](https://www.eoscanada.com/)&emsp;&emsp;&emsp;[EOS New York](https://www.eosnewyork.io)&emsp;&emsp;&emsp;[EOS42](www.eos42.io)
 
-币世界: [http://www.bishijie.com/kuaixun/](http://www.bishijie.com/kuaixun/)
+[EOS-Huobipool](https://www.eoshuobipool.com)&emsp;&emsp;&emsp;[StartEOS](https://www.starteos.io/)&emsp;&emsp;&emsp;[ZB EOS](http://www.zbeos.com/)&emsp;&emsp;&emsp;[EOS Authority](https://eosauthority.com/)
 
-币圈网: [http://www.biiquan.com/](http://www.biiquan.com/)
-
+[LibertyBlock](http://libertyblock.io)&emsp;&emsp;&emsp;[EOS Rio](https://eosrio.io/)
 
 
 ## 其他（Others）
 
-[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))
-
-[EOS资源免费抵押](https://res.mytokenpocket.vip/#/)
-
-EOS公钥私钥生成器: [https://eos-key.mytokenpocket.vip/](https://eos-key.mytokenpocket.vip/)
+[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))&emsp;&emsp;&emsp;[EOS资源免费抵押](https://res.mytokenpocket.vip/#/)&emsp;&emsp;&emsp;[EOS公钥私钥生成器](https://eos-key.mytokenpocket.vip/)
 
