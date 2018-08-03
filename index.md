@@ -8,9 +8,9 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS浏览器 (EOS Browsers)
 
-[eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)&emsp;&emsp;&emsp;[EOS Meta](https://eosmeta.io/)
+[eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)&emsp;&emsp;&emsp;[EOS Meta](https://eosmeta.io/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
 
-[EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)&emsp;&emsp;&emsp;[EOS Query](https://eosquery.com/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
+[EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)&emsp;&emsp;&emsp;[EOS Query](https://eosquery.com/)
 
 
 ## EOS钱包 (EOS Wallet)
@@ -47,11 +47,10 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS媒体 (EOS Media)
 
-[币乎](https://bihu.com/)&emsp;&emsp;&emsp;[火星财经](http://www.huoxing24.com/)&emsp;&emsp;&emsp;[链金术](http://www.lianjinshu.com/)&emsp;&emsp;&emsp;[每日区块链](http://www.dayqkl.com/)&emsp;&emsp;&emsp;[币世界](http://www.bishijie.com/kuaixun/)
+[币乎](https://bihu.com/)&emsp;&emsp;&emsp;[火星财经](http://www.huoxing24.com/)&emsp;&emsp;&emsp;[链金术](http://www.lianjinshu.com/)&emsp;&emsp;&emsp;[每日区块链](http://www.dayqkl.com/)&emsp;&emsp;&emsp;[币世界](http://www.bishijie.com/kuaixun/)&emsp;&emsp;&emsp;[火球财经](https://www.ihuoqiu.com/)&emsp;&emsp;&emsp;[巴比特](http://www.8btc.com/)
 
-[币圈网](http://www.biiquan.com/)&emsp;&emsp;&emsp;[白话区块链](http://www.hellobtc.com/)&emsp;&emsp;&emsp;[比特快讯](https://www.bitnews.vip/)&emsp;&emsp;&emsp;[Huobi.News](https://www.huobi.cn/)&emsp;&emsp;&emsp;[万链之家](https://www.wanlianzhijia.com/)
+[币圈网](http://www.biiquan.com/)&emsp;&emsp;&emsp;[白话区块链](http://www.hellobtc.com/)&emsp;&emsp;&emsp;[比特快讯](https://www.bitnews.vip/)&emsp;&emsp;&emsp;[Huobi.News](https://www.huobi.cn/)&emsp;&emsp;&emsp;[万链之家](https://www.wanlianzhijia.com/)&emsp;&emsp;&emsp;[未来财经](http://www.weilaicaijing.com/)
 
-[未来财经](http://www.weilaicaijing.com/)&emsp;&emsp;&emsp;[火球财经](https://www.ihuoqiu.com/)&emsp;&emsp;&emsp;[巴比特](http://www.8btc.com/)
 
 
 ## EOS超级节点 (EOS Super node)  （排名不分先后）
