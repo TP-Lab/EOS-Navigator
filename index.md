@@ -1,4 +1,4 @@
----
+﻿---
 title:  "EOS导航 (EOS Navigator)"
 ---
 
@@ -10,14 +10,14 @@ title:  "EOS导航 (EOS Navigator)"
 
 [eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)&emsp;&emsp;&emsp;[EOS Meta](https://eosmeta.io/)
 
-[EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)&emsp;&emsp;&emsp;[EOS Query](https://eosquery.com/)
+[EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)&emsp;&emsp;&emsp;[EOS Query](https://eosquery.com/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
 
 
 ## EOS钱包 (EOS Wallet)
 
 [TokenPocket](https://www.mytokenpocket.vip/)（推荐）&emsp;&emsp;&emsp;[Scatter](https://get-scatter.com/)（网页钱包）&emsp;&emsp;&emsp;[imToken 2.0](https://token.im/)&emsp;&emsp;&emsp;[Halo Wallet](https://halowallet.io/#/)&emsp;&emsp;&emsp;[火星钱包](https://www.xeenho.com/)
 
-[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
+[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)
 
 
 ## EOS内存价格 (EOS RAM Price)
