@@ -17,7 +17,7 @@ title:  "EOS导航 (EOS Navigator)"
 
 [TokenPocket](https://www.mytokenpocket.vip/)（推荐）&emsp;&emsp;&emsp;[Scatter](https://get-scatter.com/)（网页钱包）&emsp;&emsp;&emsp;[imToken 2.0](https://token.im/)&emsp;&emsp;&emsp;[Halo Wallet](https://halowallet.io/#/)&emsp;&emsp;&emsp;[火星钱包](https://www.xeenho.com/)
 
-[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)
+[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)&emsp;&emsp;&emsp;[BitPortal Wallet](https://www.bitportal.io/#/)
 
 
 ## EOS内存价格 (EOS RAM Price)
