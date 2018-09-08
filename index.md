@@ -1,9 +1,4 @@
-﻿---
-title:  "EOS导航 (EOS Navigator)"
----
-
-
-欢迎提交更多EOS相关链接：[https://github.com/TP-Lab/EOS-Navigator](https://github.com/TP-Lab/EOS-Navigator)
+﻿欢迎提交更多EOS相关链接：[https://github.com/TP-Lab/EOS-Navigator](https://github.com/TP-Lab/EOS-Navigator)
 
 
 ## EOS浏览器 (EOS Browsers)
