@@ -37,6 +37,11 @@ title:  "EOS导航 (EOS Navigator)"
 [eosdrops](https://eosdrops.io/)&emsp;&emsp;&emsp;[airdropsforeos](https://airdropsforeos.com/)
 
 
+## EOS娱乐 (EOS entetainment)
+
+[MonsterEOS](http://monstereos.io/)&emsp;&emsp;&emsp;[巫师1](https://game.wizards.one/#/)&emsp;&emsp;&emsp;[King Of EOS](https://kingofeos.com/)&emsp;&emsp;&emsp;[EOS Button](https://eosbutton.io/ebt-game)&emsp;&emsp;&emsp;[EOS骑士](http://eosknights.io/)&emsp;&emsp;&emsp;[超级矿工](http://eosminer.vip/)&emsp;&emsp;&emsp;[Pandafun](http://pandafun.io/)&emsp;&emsp;&emsp;[头号玩家](http://eosplayer.one/#/?ref=bpbpbpbpbppb&env=eos)
+
+
 ## EOS投票查询 (EOS Vote)
 
 [EOS.host](https://eos.host/mainnet)&emsp;&emsp;&emsp;[Aloha EOS](https://www.alohaeos.com/vote)&emsp;&emsp;&emsp;[EOS Authority](https://eosauthority.com/voting)&emsp;&emsp;&emsp;[EOS Vote Tracker](https://votetracker.eosmedi.com/#/)&emsp;&emsp;&emsp;[EOS Beijing](https://www.eosbeijing.one/data/#/bpByEOS)
@@ -58,6 +63,14 @@ title:  "EOS导航 (EOS Navigator)"
 
 [币圈网](http://www.biiquan.com/)&emsp;&emsp;&emsp;[白话区块链](http://www.hellobtc.com/)&emsp;&emsp;&emsp;[比特快讯](https://www.bitnews.vip/)&emsp;&emsp;&emsp;[Huobi.News](https://www.huobi.cn/)&emsp;&emsp;&emsp;[万链之家](https://www.wanlianzhijia.com/)&emsp;&emsp;&emsp;[未来财经](http://www.weilaicaijing.com/)
 
+## EOS社区 (EOS community)
+
+[EOS中文社区](https://eosfans.io)&emsp;&emsp;&emsp;[EOS Talk](https://eostalk.io/forums)&emsp;&emsp;&emsp;[EOS Go](https://forums.eosgo.io/)&emsp;&emsp;&emsp;[Reddit](https://www.reddit.com/r/eos/)&emsp;&emsp;&emsp;[EOS.IO Stack Exchange](https://eosio.stackexchange.com/)
+
+
+## EOS热门项目 (EOS Project)
+
+[莫与一键发币](https://coincreate.github.io/EOS_coincreate/coincreate.html)&emsp;&emsp;&emsp;[Takafuly经济共享平台](https://www.takafuly.net/)&emsp;&emsp;&emsp;[POKE数字货币抵押借贷平台](http://www.poke.sh/)&emsp;&emsp;&emsp;[EOS PRO开发服务](https://www.eospro.com/)&emsp;&emsp;&emsp;[IfWhenThen数据服务](http://ifwhenthen.com/)&emsp;&emsp;&emsp;[eos巨人](http://labs.eostitan.com)
 
 ## EOS超级节点 (EOS Super node)  （排名不分先后）
 
@@ -71,23 +84,7 @@ title:  "EOS导航 (EOS Navigator)"
 
 [eostribeprod](https://eostribe.io)
 
-
-## EOS社区 (EOS community)
-
-[EOS中文社区](https://eosfans.io)&emsp;&emsp;&emsp;[EOS Talk](https://eostalk.io/forums)&emsp;&emsp;&emsp;[EOS Go](https://forums.eosgo.io/)&emsp;&emsp;&emsp;[Reddit](https://www.reddit.com/r/eos/)&emsp;&emsp;&emsp;[EOS.IO Stack Exchange](https://eosio.stackexchange.com/)
-
-
-## EOS热门项目 (EOS Project)
-
-[莫与一键发币](https://coincreate.github.io/EOS_coincreate/coincreate.html)&emsp;&emsp;&emsp;[Takafuly经济共享平台](https://www.takafuly.net/)&emsp;&emsp;&emsp;[POKE数字货币抵押借贷平台](http://www.poke.sh/)&emsp;&emsp;&emsp;[EOS PRO开发服务](https://www.eospro.com/)&emsp;&emsp;&emsp;[IfWhenThen数据服务](http://ifwhenthen.com/)
-
-
-## EOS娱乐 (EOS entetainment)
-
-[MonsterEOS](http://monstereos.io/)&emsp;&emsp;&emsp;[巫师1](https://game.wizards.one/#/)&emsp;&emsp;&emsp;[King Of EOS](https://kingofeos.com/)&emsp;&emsp;&emsp;[EOS Button](https://eosbutton.io/ebt-game)&emsp;&emsp;&emsp;[EOS骑士](http://eosknights.io/)&emsp;&emsp;&emsp;[超级矿工](http://eosminer.vip/)&emsp;&emsp;&emsp;[Pandafun](http://pandafun.io/)
-
-
 ## 其他（Others）
 
-[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))&emsp;&emsp;&emsp;[EOS资源免费抵押](https://res.mytokenpocket.vip/#/)&emsp;&emsp;&emsp;[EOS应用程序](https://eosapps.net/)&emsp;&emsp;&emsp;[EOS项目](https://eosprojects.org/)
+[主网备份数据 by eosstore](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html) ([github说明文档](https://github.com/eosstore/eosstore-backup))&emsp;&emsp;&emsp;[EOS资源免费抵押](https://res.mytokenpocket.vip/#/)&emsp;&emsp;&emsp;[EOS应用程序](https://eosapps.net/)&emsp;&emsp;&emsp;[EOS项目](https://eosprojects.org/)&emsp;&emsp;&emsp;[EOS帐号快照](https://www.eossnapshots.io/)&emsp;&emsp;&emsp;[EOS CPU急救](https://cpuemergency.com/)
 
