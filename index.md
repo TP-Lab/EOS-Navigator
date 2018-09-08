@@ -3,7 +3,7 @@
 
 ## EOS浏览器 (EOS Browsers)
 
-[eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)&emsp;&emsp;&emsp;[EOS Meta](https://eosmeta.io/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
+[eosflare.io](https://eosflare.io/)&emsp;&emsp;&emsp;[EOSeco Explorer](https://eoseco.com/)&emsp;&emsp;&emsp;[EOSPark](https://eospark.com/)(推荐)&emsp;&emsp;&emsp;[scaneos.io](https://scaneos.io/)&emsp;&emsp;&emsp;[EOS Meta](https://eosmeta.io/)&emsp;&emsp;&emsp;[MyEOSKit](https://www.myeoskit.com/?#/tx)
 
 [EOS Tracker](https://eostracker.io/)&emsp;&emsp;&emsp;[eosmonitor](https://eosmonitor.io/)&emsp;&emsp;&emsp;[EOS network](http://eosnetworkmonitor.io/)&emsp;&emsp;&emsp;[EOS Query](https://eosquery.com/)
 
@@ -16,6 +16,10 @@
 
 [Cobo](https://cobo.com/)
 
+
+## EOS娱乐 (EOS entetainment)
+
+[eosknights](http://eosknights.io/)&emsp;&emsp;&emsp;[MonsterEOS](http://monstereos.io/)&emsp;&emsp;&emsp;[巫师1](https://game.wizards.one/#/)&emsp;&emsp;&emsp;[King Of EOS](https://kingofeos.com/)&emsp;&emsp;&emsp;[EOS Button](https://eosbutton.io/ebt-game)&emsp;&emsp;&emsp;[EOS骑士](http://eosknights.io/)&emsp;&emsp;&emsp;[超级矿工](http://eosminer.vip/)&emsp;&emsp;&emsp;[Pandafun](http://pandafun.io/)&emsp;&emsp;&emsp;[头号玩家](http://eosplayer.one/#/?ref=bpbpbpbpbppb&env=eos)&emsp;&emsp;&emsp;[简影游戏](https://www.eosbao.io/)
 
 ## EOS内存价格 (EOS RAM Price)
 
@@ -30,12 +34,6 @@
 ## EOS空投信息平台 (EOS Drop)
 
 [eosdrops](https://eosdrops.io/)&emsp;&emsp;&emsp;[airdropsforeos](https://airdropsforeos.com/)
-
-
-## EOS娱乐 (EOS entetainment)
-
-[MonsterEOS](http://monstereos.io/)&emsp;&emsp;&emsp;[巫师1](https://game.wizards.one/#/)&emsp;&emsp;&emsp;[King Of EOS](https://kingofeos.com/)&emsp;&emsp;&emsp;[EOS Button](https://eosbutton.io/ebt-game)&emsp;&emsp;&emsp;[EOS骑士](http://eosknights.io/)&emsp;&emsp;&emsp;[超级矿工](http://eosminer.vip/)&emsp;&emsp;&emsp;[Pandafun](http://pandafun.io/)&emsp;&emsp;&emsp;[头号玩家](http://eosplayer.one/#/?ref=bpbpbpbpbppb&env=eos)
-
 
 ## EOS投票查询 (EOS Vote)
 
