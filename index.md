@@ -25,6 +25,11 @@
 
 [TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)&emsp;&emsp;&emsp;[FeeXplorer](https://eos.feexplorer.io/)&emsp;&emsp;&emsp;[South ex](http://southex.com/)
 
+## EOS内存购买 (EOS RAM Purchase)
+[柚坊](https://funeos.co/buy-ram) (微信)
+
+## EOS 资源租赁 (EOS CPU/NET Lease)
+[柚坊](https://funeos.co/lease) (微信)
 
 ## EOS账号创建 (EOS Account)
 
